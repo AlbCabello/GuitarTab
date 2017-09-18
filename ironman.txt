@@ -1,0 +1,35 @@
+ironman.txt
+
+:Author: alberto
+:Date: 2017-08-12 17:54
+
+
+A) Sliding riff
+B) Picking riff
+C) Bridge 1
+D) Interlude 1 12p 10p 7p7p + mini riff
+E)
+
+Open E x3
+A 2 0:30
+B 2 0:45
+A 1 1:00
+B 2 1:08
+C 3 1:23 (2,5x)
+
+A 2 1:46
+B 2 2:01
+D 2 2:16
+A 2 2:46
+B 2 3:01
+D 2 3:16
+
+Solo1 3:46
+
+E 2 4:17
+D 4 4:22 (mini riff only)
+A 2 4:36 
+B 2 4:51
+C 3 5:06 (2,5x)
+
+Solo 2 5:27
