@@ -1,0 +1,49 @@
+iloverockandroll.txt
+
+:Author: alberto
+:Email: alberto@Victory-2.local
+:Date: 2017-10-01 12:53
+:url: https://www.youtube.com/watch?v=dS__pVf8jVs
+
+EE mute
+EE g bend
+AA
+BB g bend
+EE
+EE g
+AA
+B AEE
+
+EE
+lick
+
+
+lick:
+E|--------------------------------------------------
+B|---15b17--12---------------------------------------------
+G|--------------14--12----------------------------------
+D|--------------------------------------------------
+A|--------------------------------------------------
+E|--------------------------------------------------
+
+EE
+BB
+lick
+AA
+BB
+EE
+A hold
+
+B x8
+
+EE
+EEg
+AA
+BB ( no g)
+EE
+EE g
+AA
+B A EE
+
+EE
+lick
